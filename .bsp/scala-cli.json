@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/users/students/r0960446/.cache/scalacli/local-repo/bin/scala-cli/scala-cli",
+    "bsp",
+    "--json-options",
+    "/users/students/r0960446/Documents/snax_cluster/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/users/students/r0960446/Documents/snax_cluster/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/users/students/r0960446/Documents/snax_cluster/.scala-build/ide-envs.json",
+    "/users/students/r0960446/Documents/snax_cluster"
+  ],
+  "version": "1.7.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
